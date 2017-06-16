@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FA7463B61EF3D16E0094842E /* GPStest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GPStest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA7463B91EF3D16E0094842E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		FA7463C01EF3DEFC0094842E /* test1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		FA7463AD1EF3D16E0094842E = {
 			isa = PBXGroup;
 			children = (
+				FA7463C01EF3DEFC0094842E /* test1 */,
 				FA7463B81EF3D16E0094842E /* GPStest */,
 				FA7463B71EF3D16E0094842E /* Products */,
 			);
